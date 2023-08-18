@@ -1,0 +1,66 @@
+{
+  "_comment": "Put your JSON comment here",
+    "animals": {
+    "cats": [
+      {
+        "_id": 1,
+        "url": "",
+        "name": "minouch",
+        "type": "turkie",
+        "age": 2
+      },
+      {
+        "_id": "5786a9430e1b2c2d",
+        "url": "",
+        "name": "choupette",
+        "type": "camoi",
+        "age": 1
+      }
+    ],
+    "dogs": [
+      {
+        "_id": "5786aaed0e1b2c2d",
+        "url": "",
+        "name": "Rooky",
+        "type": "labrador",
+        "age": 1
+      }
+    ]
+  },
+  "furniturs": {
+    "chairs": [
+      {
+        "_id": "5786abce0e1b2c2d",
+        "url": "",
+        "size": "bigger than a small table",
+        "color": "#ffffff"
+      }
+    ],
+    "tables": [
+      {
+        "_id": "5786acbd0e1b2c2d",
+        "url": "",
+        "size": "small",
+        "color": "#ffccdd"
+      }
+    ]
+  },
+  "cats": [
+    {
+      "_id": "5786a9430e1b2c2d",
+      "url": "",
+      "name": "minouch",
+      "type": "turkie",
+      "age": 2
+    },
+    {
+      "_id": "5786a9430e1b2c2d",
+      "url": "",
+      "name": "choupette",
+      "type": "camoi",
+      "age": 1
+    }
+  ]
+}
+
+
